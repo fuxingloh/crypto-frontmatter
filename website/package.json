@@ -45,7 +45,7 @@
     "clsx": "^2.1.0",
     "crypto-frontmatter": "workspace:*",
     "dayjs": "^1.11.10",
-    "framer-motion": "11.0.22",
+    "framer-motion": "11.0.23",
     "html-to-react": "^1.7.0",
     "next": "14.1.4",
     "react": "18.2.0",
