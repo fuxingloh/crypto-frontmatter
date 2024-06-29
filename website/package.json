@@ -40,7 +40,7 @@
     "@crypto-frontmatter/solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp": "workspace:*",
     "@crypto-frontmatter/tip474-2494104990": "workspace:*",
     "@crypto-frontmatter/tip474-728126428": "workspace:*",
-    "@heroicons/react": "^2.1.3",
+    "@heroicons/react": "^2.1.4",
     "@vercel/analytics": "^1.3.1",
     "clsx": "^2.1.1",
     "crypto-frontmatter": "workspace:*",
