@@ -1,5 +1,5 @@
 ---
-symbol: cGLD
+symbol: CELO
 decimals: 18
 links:
   - name: website
@@ -12,6 +12,6 @@ links:
     url: https://github.com/celo-org
 ---
 
-# Celo Gold
+# Celo
 
 Celo is a carbon-negative, permissionless, blockchain with a rich ecosystem of global partners building innovative Web3 dapps to support a more inclusive financial system.

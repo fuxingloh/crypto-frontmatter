@@ -8,12 +8,26 @@ links:
     url: https://cow.fi/
   - name: explorer
     url: https://etherscan.io/token/0xD057B63f5E69CF1B929b356b579Cba08D7688048
-  - name: github
-    url: https://github.com/gnosis/cowswap
   - name: twitter
-    url: https://twitter.com/MEVprotection
+    url: https://twitter.com/CoWSwap
+  - name: github
+    url: https://github.com/cowprotocol
+  - name: github
+    url: https://github.com/cowprotocol/token
   - name: blog
-    url: https://cow.fi
+    url: https://blog.cow.fi
+  - name: docs
+    url: https://docs.cow.fi
+  - name: discord
+    url: https://discord.com/invite/cowprotocol
+  - name: forum
+    url: https://forum.cow.fi
+  - name: coingecko
+    url: https://coingecko.com/en/coins/cow-protocol
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/cow-protocol
+  - name: youtube
+    url: https://youtube.com/@CoWSwap
 ---
 
 # CoW Protocol Virtual Token

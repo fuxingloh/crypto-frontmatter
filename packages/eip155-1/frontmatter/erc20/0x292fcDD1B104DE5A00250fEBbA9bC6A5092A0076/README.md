@@ -1,11 +1,11 @@
 ---
-symbol: HashAI
+symbol: HASHAI
 decimals: 18
 links:
   - name: website
     url: https://hashai.cc
   - name: explorer
-    url: https://etherscan.io/token/0x292fcdd1b104de5a00250febba9bc6a5092a0076
+    url: https://etherscan.io/token/0x292fcDD1B104DE5A00250fEBbA9bC6A5092A0076
   - name: twitter
     url: https://twitter.com/HashAi_Eth
 ---
