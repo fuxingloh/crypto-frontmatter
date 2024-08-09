@@ -9,17 +9,27 @@ links:
   - name: explorer
     url: https://etherscan.io/token/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB
   - name: twitter
-    url: https://twitter.com/MEVprotection
+    url: https://twitter.com/CoWSwap
   - name: github
-    url: https://github.com/gnosis/cow-token/
+    url: https://github.com/cowprotocol
+  - name: source_code
+    url: https://github.com/cowprotocol/token
   - name: blog
-    url: https://medium.com/@cow-protocol
+    url: https://blog.cow.fi
+  - name: docs
+    url: https://docs.cow.fi
   - name: discord
     url: https://discord.com/invite/cowprotocol
   - name: forum
     url: https://forum.cow.fi
+  - name: coingecko
+    url: https://coingecko.com/en/coins/cow-protocol
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/cow-protocol
+  - name: youtube
+    url: https://youtube.com/@CoWSwap
 ---
 
-# COW
+# CoW Protocol Token
 
 COW token allows its holders the right to govern and curate the infrastructure of the CoW Protocol ecosystem through the CowDAO. Additionally, COW token holders receive fee discounts when trading on CowSwap & some other perks.

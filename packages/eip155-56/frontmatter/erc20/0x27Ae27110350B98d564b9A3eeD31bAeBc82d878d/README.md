@@ -1,8 +1,7 @@
 ---
 symbol: CUMMIES
 decimals: 18
-tags:
-  - deflationary
+tags: []
 links:
   - name: website
     url: https://cumrocket.io
@@ -16,10 +15,10 @@ links:
     url: https://discord.com/invite/Tett4kJsKN
   - name: reddit
     url: https://reddit.com/r/CumRocket/
-  - name: medium
-    url: https://cumrocket.medium.com/
+  - name: docs
+    url: https://cumrocket.gitbook.io/cumrocket
 ---
 
 # CumRocket
 
-CumRocket (CUMMIES) is a deflationary token used for purchasing adult content on their NSFW platform. Users are able to buy, sell and collect 18+ NFTs from their favourite models, as well as chat, tip and subscribe to exclusive content. 5% tax on every transaction - 2.5% burn, 2.5% redistribution.
+One of the most viral coins in history!
